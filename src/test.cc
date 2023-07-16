@@ -1,7 +1,6 @@
 #include "test.h"
 
 
-
 double Test::foo() {
     xt::xarray<double> arr1
         {{1.0, 2.0, 3.0},
