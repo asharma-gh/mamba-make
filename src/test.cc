@@ -8,3 +8,4 @@ double Test::foo() {
         {2.0, 5.0, 7.0}};
     return arr1(1,2);
 }
+
